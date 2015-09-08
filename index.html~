@@ -1,21 +1,21 @@
 <h1>Railton Thales</h1>
-</div>
+<p>
 
 <li>
 Todos os programas ultilizam o arquivo <a href="http://railtont.github.io/Makefile">Makefile</a> em sua compilação.
-<li> Para compilar no terminal: </div>
-$ make nome_arquivo </div>
-$ ./nome_arquivo </div>
+<li> Para compilar no terminal: <p>
+$ make nome_arquivo <p>>
+$ ./nome_arquivo <p>
 
-</div>
+<p>
 <li> Linhas e pontos:
-</div>
+<p>
 <li> Preenchimento de Regiões:
-</div>
+<p>
 <li> Transformações Geométricas:
-</div>
+<p>
 <li> Linhas e pontos:
-</div>
+<p>
 
 
 
