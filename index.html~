@@ -3,9 +3,9 @@
 
 <li>
 Todos os programas ultilizam o arquivo <p><a href="http://railtont.github.io/Makefile">Makefile</a></p> em sua compilação.
-<li> Para compilar no terminal: 
-$ make nome_arquivo
-$ ./nome_arquivo
+<li> Para compilar no terminal: </div>
+$ make nome_arquivo </div>
+$ ./nome_arquivo </div>
 
 </div>
 <li> Linhas e pontos:
@@ -15,6 +15,7 @@ $ ./nome_arquivo
 <li> Transformações Geométricas:
 </div>
 <li> Linhas e pontos:
+</div>
 
 
 
