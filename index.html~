@@ -1,6 +1,25 @@
 <h1>Railton Thales</h1>
 </div>
 
+
+<p>
+<a href="http://pedros-12.github.io/Graphic/quadrados4.c">Makefile</a>
+</p>
+
+<li>
 Todos os programas ultilizam o arquivo Makefile em sua compilação.
+<li> Para compilar no terminal: 
+$ make nome_arquivo
+$ ./nome_arquivo
+
+</div>
+<li> Linhas e pontos:
+
+<li> Preenchimento de Regiões:
+
+<li> Transformações Geométricas:
+
+<li> Linhas e pontos:
+
 
 
