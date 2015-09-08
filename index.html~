@@ -13,7 +13,7 @@ Todos os programas devem estar com o arquivo <a href="http://railtont.github.io/
 		<li>1.1 <a href="https://www.dropbox.com/s/ufjjxj470lftzxx/%20quadrados4.cpp?dl=0">quadrados4.cpp</a> - 
 		        <a href="http://railtont.github.io/1-1.png">Imagem</a></li>
 		<li>1.2 <a href="https://www.dropbox.com/s/nfflq77h7222c4b/quad2.cpp?dl=0">quadradoscolor.cpp</a> - 
-		        <a href="http://railtont.github.io/1-2.png">Imagem</a><li>
+		        <a href="http://railtont.github.io/1-2.png">Imagem</a></li>
 	</ul>
 	<li>Linhas e pontos:</li>
 	<ul>
@@ -29,14 +29,14 @@ Todos os programas devem estar com o arquivo <a href="http://railtont.github.io/
 		<li>3.1 <a href="https://www.dropbox.com/s/lcc192qjzwsgn14/selecao.cpp?dl=0">selecao.cpp</a> - 
 		        <a href="http://railtont.github.io/3-1.png">Imagem</a></li>
 		<li>3.2 O mesmo resultado do item 3.1 quando alterado para buffer simples.</li>
-		<li>3.3 <a href="https://www.dropbox.com/s/hk2kr3ciasz9v62/circulo.cpp?dl=0">???.cpp</a> - 
-		        <a href="http://railtont.github.io/3-3.png">???</a></li>
+		<li>3.3 <a href="https://www.dropbox.com/s/ap97787yqwpcglu/ini.cpp?dl=0">Iniciais.cpp</a> - 
+		        <a href="http://railtont.github.io/3-3.png">Imagem</a></li>
 	</ul>
 	<li>Transformações Geométricas:</li>
 	<ul>
-		<li>4.1 <a href="https://www.dropbox.com/s/lcc192qjzwsgn14/selecao.cpp?dl=0">selecao.cpp</a> - 
+		<li>4.1 <a href="https://www.dropbox.com/s/qejqu1gz3daqeoq/braco.cpp?dl=0">braco-garra.cpp</a> - 
 		        <a href="http://railtont.github.io/4-1.png">Imagem</a></li>
-		<li>4.2 <a href="https://www.dropbox.com/s/hk2kr3ciasz9v62/circulo.cpp?dl=0">???.cpp</a> - 
+		<li>4.2 <a href="https://www.dropbox.com/s/6dx5nx2bfa95cu3/braco2.cpp?dl=0">braco-garra-3d.cpp</a> - 
 		        <a href="http://railtont.github.io/4-2.png">Imagem</a></li>
 	</ul>
 </ol>
