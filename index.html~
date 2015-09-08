@@ -2,7 +2,7 @@
 </div>
 
 <li>
-Todos os programas ultilizam o arquivo <p><a href="http://railtont.github.io/Makefile">Makefile</a></p> em sua compilação.
+Todos os programas ultilizam o arquivo <a href="http://railtont.github.io/Makefile">Makefile</a> em sua compilação.
 <li> Para compilar no terminal: </div>
 $ make nome_arquivo </div>
 $ ./nome_arquivo </div>
